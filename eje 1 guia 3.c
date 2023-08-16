@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-void mostrar (float a, float b)
+void mostrar (float a, float b)//Buen trabajo...
 {
 	printf ("%f\n\n%f",a,b);
 }
