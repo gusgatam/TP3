@@ -3,7 +3,7 @@
 
 void calcular (float r1, float r2, float r3, float r4, float r5);
 int main() {
-	float	 r1,r2,r3,r4,r5;
+	float	 r1,r2,r3,r4,r5;// estructuras repetitivas para la carga
 
 	printf("ingrese r1: ");
 	scanf("%f",& r1);
